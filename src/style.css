@@ -1,0 +1,9 @@
+.light-bulb {
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.on {
+  background-color: yellow;
+}
